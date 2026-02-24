@@ -1,1 +1,30 @@
+# Student Grade Tracker GUI
+
+This is a simple Java Swing project made by **Dhiraj Kumar (MCA – SIOM Pune)** for CodeAlpha internship tasks.
+
+## Features
+
+* Add student name and marks
+* View students in table
+* Show report (average, highest, lowest)
+* Show list of student names
+
+## Technology Used
+
+* Java
+* Swing GUI
+* VS Code
+
+## How to Run
+
+1. Open in VS Code
+2. Run commands:
+
+javac StudentGradeTrackerGUI.java
+java StudentGradeTrackerGUI
+
+## Author
+
+Dhiraj Kumar
+MCA Student – SIOM Pune
 
